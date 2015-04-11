@@ -1,0 +1,19 @@
+{
+    "username": "evan.sturdivant-ptdd@force.com.dev", 
+    "environment": "custom", 
+    "project_name": "Apex Training", 
+    "workspace": "S:\\MM Projects", 
+    "org_url": "https://cs17.salesforce.com", 
+    "namespace": "", 
+    "id": "8YZ3CJOWPGRUFB43ONV6VZNRECGWA304", 
+    "metadata_container": "1dcg00000008IHLAA2", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}

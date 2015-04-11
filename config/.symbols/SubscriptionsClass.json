@@ -1,0 +1,85 @@
+{
+    "properties": [], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "SubscriptionsClass", 
+    "tableDeclaration": {
+        "type": "SubscriptionsClass", 
+        "modifiers": [], 
+        "references": [], 
+        "location": {
+            "column": 14, 
+            "line": 1
+        }, 
+        "name": "SubscriptionsClass"
+    }, 
+    "key": "01pg0000000GS5nAAG", 
+    "variables": [
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 74, 
+                "line": 6
+            }, 
+            "name": "positions"
+        }, 
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 29, 
+                "line": 14
+            }, 
+            "name": "subscriptions"
+        }, 
+        {
+            "type": "Position__c", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 20, 
+                "line": 15
+            }, 
+            "name": "pos"
+        }, 
+        {
+            "type": "EntitySubscription", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 23, 
+                "line": 16
+            }, 
+            "name": "eSubs"
+        }
+    ], 
+    "id": "01pg0000000GS5nAAG", 
+    "methods": [
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "HiringManagerSubscribeNewPosition", 
+            "parameters": [
+                {
+                    "type": "LIST", 
+                    "name": "positions"
+                }
+            ], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 21, 
+                "line": 6
+            }, 
+            "returnType": "void", 
+            "type": null
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "BasicBlocks.cls": {
+        "createdById": "005j000000BeA5VAAV", 
+        "createdByName": "Evan Sturdivant", 
+        "createdDate": "2015-03-22 11:01:34", 
+        "fileName": "unpackaged/classes/BasicBlocks.cls", 
+        "fullName": "BasicBlocks", 
+        "id": "01pg0000000GJGNAA4", 
+        "lastModifiedById": "005j000000BeA5VAAV", 
+        "lastModifiedByName": "Evan Sturdivant", 
+        "lastModifiedDate": "2015-03-22 11:01:34", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "HelloWorldPositionClass.cls": {
+        "createdById": "005j000000BeA5VAAV", 
+        "createdByName": "Evan Sturdivant", 
+        "createdDate": "2015-03-11 09:42:16", 
+        "fileName": "unpackaged/classes/HelloWorldPositionClass.cls", 
+        "fullName": "HelloWorldPositionClass", 
+        "id": "01pj0000003SETfAAO", 
+        "lastModifiedById": "005j000000BeA5VAAV", 
+        "lastModifiedByName": "Evan Sturdivant", 
+        "lastModifiedDate": "2015-03-11 09:42:16", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "HelloWorldPositionTrigger.trigger": {
+        "createdById": "005j000000BeA5VAAV", 
+        "createdByName": "Evan Sturdivant", 
+        "createdDate": "2015-03-11 09:42:16", 
+        "fileName": "unpackaged/triggers/HelloWorldPositionTrigger.trigger", 
+        "fullName": "HelloWorldPositionTrigger", 
+        "id": "01qj0000000t1q8AAA", 
+        "lastModifiedById": "005j000000BeA5VAAV", 
+        "lastModifiedByName": "Evan Sturdivant", 
+        "lastModifiedDate": "2015-03-11 09:42:16", 
+        "mmState": "clean", 
+        "type": "ApexTrigger"
+    }, 
+    "SubscriptionsClass.cls": {
+        "createdById": "005j000000BeA5VAAV", 
+        "createdByName": "Evan Sturdivant", 
+        "createdDate": "2015-03-29 09:18:18", 
+        "fileName": "unpackaged/classes/SubscriptionsClass.cls", 
+        "fullName": "SubscriptionsClass", 
+        "id": "01pg0000000GS5nAAG", 
+        "lastModifiedById": "005j000000BeA5VAAV", 
+        "lastModifiedByName": "Evan Sturdivant", 
+        "lastModifiedDate": "2015-03-29 09:23:02", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "pdfstyles.resource": {
+        "createdById": "005j000000BeA5VAAV", 
+        "createdByName": "Evan Sturdivant", 
+        "createdDate": "2015-03-11 09:42:16", 
+        "fileName": "unpackaged/staticresources/pdfstyles.resource", 
+        "fullName": "pdfstyles", 
+        "id": "081j0000000rxo2AAA", 
+        "lastModifiedById": "005j000000BeA5VAAV", 
+        "lastModifiedByName": "Evan Sturdivant", 
+        "lastModifiedDate": "2015-03-11 09:42:16", 
+        "mmState": "clean", 
+        "type": "StaticResource"
+    }
+}
